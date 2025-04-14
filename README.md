@@ -29,7 +29,7 @@ Using both structured and unstructured data, we trained and evaluated machine le
 
 ## 🧪 Methodology
 
-![Project Methodology Overview](figures/methodology.jpg)
+![Project Methodology Overview](figures/Methodology.jpg)
 
 1. **Data Collection**: Demographics + PHQ-8 and ZBI scores + open-ended interviews
 2. **Feature Engineering**:
