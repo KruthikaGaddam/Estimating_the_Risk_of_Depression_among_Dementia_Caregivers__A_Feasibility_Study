@@ -29,7 +29,7 @@ Using both structured and unstructured data, we trained and evaluated machine le
 
 ## 🧪 Methodology
 
-![Project Methodology Overview](figures/Methodology.jpg)
+![Project Methodology Overview](https://github.com/KruthikaGaddam/Estimating_the_Risk_of_Depression_among_Dementia_Caregivers__A_Feasibility_Study/blob/main/Methodology.jpg)
 
 1. **Data Collection**: Demographics + PHQ-8 and ZBI scores + open-ended interviews
 2. **Feature Engineering**:
