@@ -11,6 +11,7 @@ Informal caregivers of PwD often face significant emotional and physical stress,
 - Narrative responses from semi-structured interviews
 
 Using both structured and unstructured data, we trained and evaluated machine learning models to identify caregivers at risk.
+![Research_design_Overview](https://github.com/KruthikaGaddam/Estimating_the_Risk_of_Depression_among_Dementia_Caregivers__A_Feasibility_Study/blob/main/Research_design.jpeg)
 
 ## 📊 Key Results
 
